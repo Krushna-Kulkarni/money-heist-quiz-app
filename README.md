@@ -1,7 +1,7 @@
 # CLI based quiz app for 'Money Heist' fans. 
 
 This is an fandom quiz application based on the popular Netflix show 'Money Heist'. CLI provided by repl.it <br>
-[See Live](https://replit.com/@krushnakulkarni/CLI-QuizApp-mark1?embed=1&output=1)
+[Link to the app](https://replit.com/@krushnakulkarni/CLI-QuizApp-mark1?embed=1&output=1 "Money Heist Quiz App")
 
 ## Environment details:
 * node v12.16.1
